@@ -1,0 +1,11 @@
+
+
+target 'RX3_ExtExample' do
+
+pod 'RX3_WeChatSDK'
+
+pod 'RX3_TencentLiteSDK'
+
+end
+
+
